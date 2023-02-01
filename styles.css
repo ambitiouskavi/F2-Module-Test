@@ -16,7 +16,7 @@
 
 form {
     background-color: #863A6F;
-    height: 400px;
+    height: 300px;
     width: 600px;
     display: flex;
     align-items: center;
@@ -63,4 +63,9 @@ container{
     justify-content: center;
     align-items: center;
     margin:0 auto;
+}
+h1{
+    text-align: center;
+   margin-bottom:2vh;
+   margin-top:2vh;
 }
